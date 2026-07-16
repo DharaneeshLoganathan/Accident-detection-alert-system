@@ -7,8 +7,8 @@ import math
 # ========================
 # CONFIG
 # ========================
-TOKEN = "8228247235:AAHNXgUWTsZrsuHSelmjvYmPbv9vVnYnqxk"   # Replace with your bot token
-CHAT_ID = "1921121059"            # Replace with your chat ID
+TOKEN = "# Replace with your bot token" 
+CHAT_ID = "# Replace with your chat ID"            
 bot = telebot.TeleBot(TOKEN)
 
 # MPU6050 setup
